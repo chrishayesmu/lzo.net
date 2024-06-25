@@ -44,6 +44,7 @@ namespace lzo.net.test
             {"world95.txt", "9b43f25ddee11084ba66f7e638642e85"},
             {"A10.jpg", "735ba97200122210ee7c3faaa98a701a"},
             {"AcroRd32.exe", "9e0d2a448501bf430984ba041e6658f4"},
+            {"compressed_data.bin", "bff3b4c25f19ab44530c3cd25888c002"},
             {"english.dic", "930f84ac31e3bd1802d9aba392c475a0"},
             {"FlashMX.pdf", "8bf62ff2eebde7f3f132c6f362328dba"},
             {"FP.LOG", "059d1d86734a3478c29e862bf2026684"},
